@@ -1,0 +1,11 @@
+{
+  "subdomain": "astraflux",
+  "domain": "thedev.me",
+  "email_or_discord": "66988810+pooravkadiyan@users.noreply.github.com",
+  "github_username": "pooravkadiyan",
+  "description": "AstraFlux quantitative research software",
+  "records": {
+    "CNAME": ["pooravkadiyan.github.io"]
+  },
+  "proxied": false
+}
